@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/asimulis/Create%20a%20build%20pipeline/_apis/build/status/aivsim.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/asimulis/Create%20a%20build%20pipeline/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
